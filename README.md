@@ -19,5 +19,7 @@ You'll then need to configure your config.json file, please see below for detail
 
 ### Config
 
-See [`config-sample.json`](config-sample.json) for an example of how your homebridge configuration file should look. See [tuyapi](https://github.com/codetheweb/tuyapi) for information on how to retrieve the required parameters.
+See [`config-sample.json`](config-sample.json) for an example of how your homebridge configuration file should look.
 
+### TuyAPI ID and Key
+For help on retrieving your TuyAPI ID and Key, please refer to [this page](https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md)
