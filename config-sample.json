@@ -9,9 +9,8 @@
    {
       "accessory": "IgenixAirConditioner",
       "name": "Air Conditioner",
-      "devId": "XXXXXXXXXXXXXX",
-      "uid": "XXXXXXXXXXXXXX",
-      "localKey": "XXXXXXXXXXXXXX"
+      "id": "XXXXXXXXXXXXXX",
+      "key": "XXXXXXXXXXXXXX"
     }
   ]
 }
