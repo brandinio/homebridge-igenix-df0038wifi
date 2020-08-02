@@ -1,6 +1,6 @@
 {
   "name": "homebridge-igenix-tower-fan",
-  "version": "0.69.1",
+  "version": "0.69.2",
   "description": "Homebridge plugin for Igenix WiFi Tower Fan (DF0038WIFI)",
   "main": "index.js",
   "scripts": {
