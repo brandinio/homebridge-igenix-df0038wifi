@@ -7,8 +7,8 @@
   },
   "accessories": [
    {
-      "accessory": "IgenixAirConditioner",
-      "name": "Air Conditioner",
+      "accessory": "IgenixTowerFan",
+      "name": "Tower Fan",
       "id": "XXXXXXXXXXXXXX",
       "key": "XXXXXXXXXXXXXX"
     }
