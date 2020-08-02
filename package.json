@@ -1,0 +1,40 @@
+{
+  "name": "homebridge-igenix-air-conditioner",
+  "version": "0.0.0",
+  "description": "Homebridge plugin for Igenix WiFi Air Conditioner (IG9901WIFI)",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint . "
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "air-conditioner",
+    "tuya",
+    "igenix",
+    "IG9901WIFI"
+  ],
+  "engines": {
+    "node": ">=9.0",
+    "homebridge": ">=0.4.0"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "debug": "^3.1.0",
+    "tuyapi": "^2.0.3"
+  },
+  "author": "Ell Neal <elliot@emdentec.com>",
+  "bugs": {
+    "url": "https://github.com/ellneal/homebridge-igenix-air-conditioner/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ellneal/homebridge-igenix-air-conditioner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellneal/homebridge-igenix-air-conditioner.git"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
