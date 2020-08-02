@@ -1,0 +1,30 @@
+{
+  "pluginAlias": "IgenixTowerFan",
+  "pluginType": "accessory",
+  "singular": true,
+  "headerDisplay": "Please enter your TuyAPI ID and Key in the boxes below:",
+  "footerDisplay": "For help on retrieving your TuyAPI ID and Key, please refer to [this page](https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md).",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "title": "Friendly Name for Home App",
+        "default": "Tower Fan",
+        "type": "string",
+        "required": true
+      },
+      "id": {
+        "title": "TuyAPI ID",
+        "type": "string",
+        "required": true
+      },
+      "key": {
+        "title": "TuyAPI Key",
+        "type": "string",
+        "required": true
+      }
+    }
+  },
+  "form": null,
+  "display": null
+}
