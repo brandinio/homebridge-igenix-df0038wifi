@@ -1,6 +1,6 @@
 {
   "name": "homebridge-igenix-tower-fan",
-  "version": "0.6.9",
+  "version": "0.6.9.1",
   "description": "Homebridge plugin for Igenix WiFi Tower Fan (DF0038WIFI)",
   "main": "index.js",
   "scripts": {
@@ -24,13 +24,13 @@
   },
   "author": "Brandon Williams <brandon@brandin.io>",
   "bugs": {
-    "url": "https://github.com/brandinio/homebridge-igenix-df0038wifi/issues"
+    "url": "https://github.com/brandinio/homebridge-igenix-tower-fan/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/brandinio/homebridge-igenix-df0038wifi",
+  "homepage": "https://github.com/brandinio/homebridge-igenix-tower-fan",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandinio/homebridge-igenix-df0038wifi.git"
+    "url": "git+https://github.com/brandinio/homebridge-igenix-tower-fan.git"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
