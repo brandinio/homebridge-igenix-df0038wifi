@@ -1,4 +1,4 @@
-# homebridge-igenix-df0038wifi
+# homebridge-igenix-tower-fan
 
 Homebridge extension for the Igenix DF0038WIFI Tower Fan
 
