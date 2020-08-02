@@ -2,6 +2,8 @@
 
 Homebridge extension for the Igenix DF0038WIFI Tower Fan
 
+The base code is directly from [`ellneal/homebridge-igenix-air-conditioner`](https://github.com/ellneal/homebridge-igenix-air-conditioner)
+
 ### Usage
 
 ```bash
