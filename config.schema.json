@@ -22,6 +22,12 @@
         "title": "TuyAPI Key",
         "type": "string",
         "required": true
+      },
+      "storeSettings": {
+        "title": "Store oscillation and fan speed settings when fan is turned off",
+        "type": "boolean",
+      	"default": true,
+        "required": true
       }
     }
   },

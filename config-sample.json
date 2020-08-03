@@ -10,7 +10,8 @@
       "accessory": "IgenixTowerFan",
       "name": "Tower Fan",
       "id": "XXXXXXXXXXXXXX",
-      "key": "XXXXXXXXXXXXXX"
+      "key": "XXXXXXXXXXXXXX",
+	  "storeSettings": true
     }
   ]
 }
