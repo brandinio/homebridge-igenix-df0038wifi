@@ -12,6 +12,7 @@
       "id": "XXXXXXXXXXXXXX",
       "clientId": "XXXXXXXXXXXXXX",
       "clientSecret": "XXXXXXXXXXXXXX",
+	  "pollInterval": 10,
 	  "storeSettings": true
     }
   ]
