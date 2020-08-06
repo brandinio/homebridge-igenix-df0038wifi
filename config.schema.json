@@ -2,8 +2,8 @@
   "pluginAlias": "IgenixTowerFan",
   "pluginType": "accessory",
   "singular": true,
-  "headerDisplay": "Please enter your TuyAPI ID and Key in the boxes below:",
-  "footerDisplay": "For help on retrieving your TuyAPI ID and Key, please refer to [this page](https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md).",
+  "headerDisplay": "Please enter your IDs and Secret in the boxes below:",
+  "footerDisplay": "For help on retrieving your IDs/Secret, please refer to [this page](https://github.com/brandinio/homebridge-igenix-tower-fan/blob/master/docs/SETUP.md).",
   "schema": {
     "type": "object",
     "properties": {
@@ -14,12 +14,17 @@
         "required": true
       },
       "id": {
-        "title": "TuyAPI ID",
+        "title": "Tuya Smart App - Device ID / Virtual ID",
         "type": "string",
         "required": true
       },
-      "key": {
-        "title": "TuyAPI Key",
+      "clientId": {
+        "title": "Tuya IoT Cloud Development - Access ID / Client ID",
+        "type": "string",
+        "required": true
+      },
+      "clientSecret": {
+        "title": "Tuya IoT Cloud Development - Access Secret / Client Secret",
         "type": "string",
         "required": true
       },
