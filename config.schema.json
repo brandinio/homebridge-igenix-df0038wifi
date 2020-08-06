@@ -28,6 +28,12 @@
         "type": "string",
         "required": true
       },
+      "pollInterval": {
+        "title": "How many seconds should the plugin wait before checking the fan for any local changes?",
+        "type": "integer",
+      	"default": 10,
+        "required": true
+      },
       "storeSettings": {
         "title": "Store oscillation and fan speed settings when fan is turned off",
         "type": "boolean",
